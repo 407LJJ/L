@@ -1,8 +1,8 @@
 # L
 int main(void){
-printf("hellow woder");
+printf("hellow woFFFderer");
 return 0;
 }
 
 
-kasdhgukashyd rtrtrtr
+kasdhgukashyd rtrtrtrhhh
